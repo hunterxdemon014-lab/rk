@@ -1,101 +1,91 @@
 #EXTM3U
-#PLAYLIST: Indian BDIX
-#EXTENC: UTF-8
-
-# Playlist Name: Indian BDIX
-# Last Update: 06:15 PM 20-06-2026
-# Facebook Page: https://www.facebook.com/profile.php?id=61590515402166
-# Fb Page Name : M3U World 4K
-# This link are available freely on the internet . So, don't disturb me.
-
-#EXTM3U
-
-# Bangla Entertainment
-#EXTINF:-1 tvg-id="ZeeBangla4K" tvg-name="Zee Bangla 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Zee_Bangla_HD_%282025%29.svg/revision/latest?cb=20250609091454" group-title="Bangla",Zee Bangla 4K
-http://starhub.pro/live/Anthony2/Anthony123/435.ts
-
-#EXTINF:-1 tvg-id="ColorsBangla4K" tvg-name="Colors Bangla 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Colors_Bangla_HD.jpg/revision/latest?cb=20240314081816" group-title="Bangla",Colors Bangla 4K
-http://starhub.pro/live/Anthony2/Anthony123/98882.ts
-
-#EXTINF:-1 tvg-id="StarJalsa4K" tvg-name="Star Jalsa 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624" group-title="Bangla",Star Jalsa 4K
-http://starhub.pro/live/Anthony2/Anthony123/198.ts
-
-#EXTINF:-1 tvg-id="JalsaMovies4K" tvg-name="Jalsa Movies 4K" tvg-logo="" group-title="Bangla",Jalsa Movies 4K
-http://starhub.pro/live/Anthony2/Anthony123/98884.ts
-
-# Movies
-#EXTINF:-1 tvg-id="SonyMax4K" tvg-name="Sony Max 4K" tvg-logo="" group-title="Movies",Sony Max 4K
-http://starhub.pro/live/Anthony2/Anthony123/98857.ts
-
-#EXTINF:-1 tvg-id="AndPictures4K" tvg-name="& Pictures 4K" tvg-logo="" group-title="Movies",& Pictures 4K
-http://starhub.pro/live/Anthony2/Anthony123/98856.ts
-
-#EXTINF:-1 tvg-id="StarGold4K" tvg-name="Star Gold 4K" tvg-logo="" group-title="Movies",Star Gold 4K
-http://starhub.pro/live/Anthony2/Anthony123/98858.ts
-
-#EXTINF:-1 tvg-id="StarGoldSelect4K" tvg-name="Star Gold Select 4K" tvg-logo="" group-title="Movies",Star Gold Select 4K
-http://starhub.pro/live/Anthony2/Anthony123/98859.ts
-
-#EXTINF:-1 tvg-id="ZeeCinema4K" tvg-name="Zee Cinema 4K" tvg-logo="" group-title="Movies",Zee Cinema 4K
-http://starhub.pro/live/Anthony2/Anthony123/98860.ts
-
-#EXTINF:-1 tvg-id="ColorsCineplex4K" tvg-name="Colors Cineplex 4K" tvg-logo="" group-title="Movies",Colors Cineplex 4K
-http://starhub.pro/live/Anthony2/Anthony123/9378.ts
-
-# Documentary
-#EXTINF:-1 tvg-id="AnimalPlanet4K" tvg-name="Animal Planet 4K" tvg-logo="" group-title="Documentary",Animal Planet 4K
-http://starhub.pro/live/Anthony2/Anthony123/9391.ts
-
-#EXTINF:-1 tvg-id="HistoryTV184K" tvg-name="History TV18 4K" tvg-logo="" group-title="Documentary",History TV18 4K
-http://starhub.pro/live/Anthony2/Anthony123/98877.ts
-
-#EXTINF:-1 tvg-id="Discovery4K" tvg-name="Discovery 4K" tvg-logo="" group-title="Documentary",Discovery 4K
-http://starhub.pro/live/Anthony2/Anthony123/98872.ts
-
-#EXTINF:-1 tvg-id="NationalGeo4K" tvg-name="National Geographic 4K" tvg-logo="" group-title="Documentary",National Geographic 4K
-http://starhub.pro/live/Anthony2/Anthony123/98874.ts
-
-#EXTINF:-1 tvg-id="SonyBBCEarth4K" tvg-name="Sony BBC Earth 4K" tvg-logo="" group-title="Documentary",Sony BBC Earth 4K
-http://starhub.pro/live/Anthony2/Anthony123/98871.ts
-
-#EXTINF:-1 tvg-id="TravelXP4K" tvg-name="Travel XP 4K" tvg-logo="" group-title="Documentary",Travel XP 4K
-http://starhub.pro/live/Anthony2/Anthony123/1623.ts
-
-# Kids
-#EXTINF:-1 tvg-id="Nick4K" tvg-name="Nick 4K" tvg-logo="" group-title="Kids",Nick 4K
-http://starhub.pro/live/Anthony2/Anthony123/7438.ts
-
-# Sports
-#EXTINF:-1 tvg-id="TSportsHD" tvg-name="T Sports HD" tvg-logo="" group-title="Sports",T Sports HD
-http://starhub.pro/live/Anthony2/Anthony123/113069.ts
-
-#EXTINF:-1 tvg-id="PTV4K" tvg-name="PTV 4K" tvg-logo="" group-title="Sports",PTV 4K
-http://starhub.pro/live/Anthony2/Anthony123/61674.ts
-
-#EXTINF:-1 tvg-id="StarSports14K" tvg-name="Star Sports 1 4K" tvg-logo="" group-title="Sports",Star Sports Select 1 4K
-http://starhub.pro/live/Anthony2/Anthony123/238.ts
-
-#EXTINF:-1 tvg-id="StarSports24K" tvg-name="Star Sports 2 4K" tvg-logo="" group-title="Sports",Star Sports select 2 4K
-http://starhub.pro/live/Anthony2/Anthony123/148801.ts
-
-#EXTINF:-1 tvg-id="SonyTen14K" tvg-name="Sony Ten 1 4K" tvg-logo="" group-title="Sports",Sony Ten 1 4K
-http://starhub.pro/live/Anthony2/Anthony123/154.ts
-
-#EXTINF:-1 tvg-id="SonyTen24K" tvg-name="Sony Ten 2 4K" tvg-logo="" group-title="Sports",Sony Ten 2 4K
-http://starhub.pro/live/Anthony2/Anthony123/31314.ts
-
-#EXTINF:-1 tvg-id="SonyTen54K" tvg-name="Sony Ten 5 4K" tvg-logo="" group-title="Sports",Sony Ten 5 4K
-http://starhub.pro/live/Anthony2/Anthony123/176.ts
-
-#EXTINF:-1 tvg-id="FoxCricket5014K" tvg-name="Fox Cricket 501 4K" tvg-logo="" group-title="Sports",Fox Cricket 501 4K
-http://starhub.pro/live/Anthony2/Anthony123/1856.ts
-
-#EXTINF:-1 tvg-id="SuperSport14K" tvg-name="SuperSport 1 4K" tvg-logo="" group-title="Sports",Star Sports 1 4K
-http://starhub.pro/live/Anthony2/Anthony123/9397.ts
-
-#EXTINF:-1 tvg-id="SuperSport24K" tvg-name="SuperSport 2 4K" tvg-logo="" group-title="Sports",Star Sports 2 4K
-http://starhub.pro/live/Anthony2/Anthony123/9398.ts
-
-# Lifestyle
-#EXTINF:-1 tvg-id="ZeeZest4K" tvg-name="Zee Zest 4K" tvg-logo="" group-title="Lifestyle",Zee Zest 4K
-http://starhub.pro/live/Anthony2/Anthony123/380446.ts
+#EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="News",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-id="185" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="News",DBC News HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 tvg-id="229" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="Entertainment",Maasranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-id="102" tvg-name="Ekattor HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="News",Ekattor HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-id="94" tvg-name="Channel 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="News",Channel 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-id="93" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="News",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-id="186" tvg-name="News 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png" group-title="News",News 24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 tvg-id="191" tvg-name="Star News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png" group-title="News",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+#EXTINF:-1 tvg-id="134" tvg-name="Deepto TV HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Entertainment",Deepto TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 tvg-id="188" tvg-name="Channel 9 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png" group-title="Entertainment",Channel 9 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+#EXTINF:-1 tvg-id="132" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="Entertainment",Channel I HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-id="197" tvg-name="Cineedge HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png" group-title="Movies",Cineedge HD
+https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
+#EXTINF:-1 tvg-id="196" tvg-name="Uniques HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png" group-title="Movies",Uniques HD
+https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
+#EXTINF:-1 tvg-id="198" tvg-name="Superrix HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png" group-title="Movies",Superrix HD
+https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
+#EXTINF:-1 tvg-id="100" tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="Entertainment",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="NTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png" group-title="Entertainment",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-id="192" tvg-name="Screem" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png" group-title="Movies",Screem
+https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
+#EXTINF:-1 tvg-id="206" tvg-name="Flash Guys HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png" group-title="Sports",Flash Guys HD
+https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
+#EXTINF:-1 tvg-id="212" tvg-name="BuddyStar HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png" group-title="Kids",BuddyStar HD
+https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
+#EXTINF:-1 tvg-id="209" tvg-name="Luxell HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378560772.png" group-title="Infotainment",Luxell HD
+https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
+#EXTINF:-1 tvg-id="211" tvg-name="Joy" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png" group-title="Kids",Joy
+https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
+#EXTINF:-1 tvg-id="213" tvg-name="Funny Junior HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png" group-title="Kids",Funny Junior HD
+https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
+#EXTINF:-1 tvg-id="214" tvg-name="Crimes" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png" group-title="Movies",Crimes
+https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
+#EXTINF:-1 tvg-id="215" tvg-name="True Stories" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png" group-title="Movies",True Stories
+https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
+#EXTINF:-1 tvg-id="216" tvg-name="Intelligence" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png" group-title="Movies",Intelligence
+https://nomawnoijl.gpcdn.net/akash/intelligence/playlist.m3u8
+#EXTINF:-1 tvg-id="218" tvg-name="Thunder Er" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png" group-title="Sports",Thunder Er
+https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
+#EXTINF:-1 tvg-id="219" tvg-name="Fighters" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png" group-title="Sports",Fighters
+https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
+#EXTINF:-1 tvg-id="220" tvg-name="Smarty" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png" group-title="Kids",Smarty
+https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
+#EXTINF:-1 tvg-id="221" tvg-name="Lucky Family" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png" group-title="Kids",Lucky Family
+https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
+#EXTINF:-1 tvg-id="222" tvg-name="Kids Stars" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png" group-title="Kids",Kids Stars
+https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
+#EXTINF:-1 tvg-id="172" tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779607122445.png" group-title="Entertainment",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="239" tvg-name="Sports Legends" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779609962271.png" group-title="Sports",Sports Legends
+https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
+#EXTINF:-1 tvg-id="169" tvg-name="Al Jazeera" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1777454219313.png" group-title="News",Al Jazeera
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1 tvg-id="240" tvg-name="BTV Shangshad" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781166550297.png" group-title="News",BTV Shangshad
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-id="241" tvg-name="Party Universe" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083145889.png" group-title="Music",Party Universe
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
+#EXTINF:-1 tvg-id="245" tvg-name="Al Quran" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086065071.png" group-title="Infotainment",Al Quran
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+#EXTINF:-1 tvg-id="247" tvg-name="Independent TV " tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="News",Independent TV 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-id="242" tvg-name="Nikki" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778083459294.png" group-title="Kids",Nikki
+https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
+#EXTINF:-1 tvg-id="243" tvg-name="Originals" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085327477.png" group-title="Movies",Originals
+https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
+#EXTINF:-1 tvg-id="244" tvg-name="Crazy Ex" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png" group-title="Sports",Crazy Ex
+https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
+#EXTINF:-1 tvg-id="246" tvg-name="Delicious" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778086478755.png" group-title="Infotainment",Delicious
+https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
+#EXTINF:-1 tvg-id="248" tvg-name="Program Promo" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087459461.png" group-title="Infotainment",Program Promo
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+#EXTINF:-1 tvg-id="267" tvg-name="Sports Range" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1779610478709.png" group-title="Sports",Sports Range
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
+#EXTINF:-1 tvg-id="299" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="News",Channel 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-id="303" tvg-name="Desh TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1782012550123.png" group-title="News",Desh TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
