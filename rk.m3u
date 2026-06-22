@@ -795,3 +795,30 @@ http://103.140.254.2:3500/live/555.m3u8
 #EXTINF:-1 tvg-id="ChuttiTV.in@SD" tvg-logo="https://i.imgur.com/FSM47sR.png" group-title="Animation",Chutti TV (576p)
 http://103.140.254.2:3500/live/557.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Animation;Kids",Disney Channel Latin America (1080p)
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:3037
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-PROGRAM-DATE-TIME:2026-06-21T21:27:05.400Z
+#EXTINF:4.000000,
+https://sm-monirul.top/tof/live.php?internal=true&data=2O_KbWPRRd1_gcFwIj5r6C4fEYRIT708JCUB7MTopXYDMWV9hHktCADvYzjrztzg3CYkDd_1dOaSF3rJele113b3LTKclugsOaUYuoGeW5SDfv28GcQjVseixCkTJnKfOdHkhRSMfG2QR6nZnZMYDA
+#EXTINF:4.000000,
+https://sm-monirul.top/tof/live.php?internal=true&data=599S8pVtNW6sfWj3f_VLg5xHVmIjHGKCVZgEE9AKaHUuNd1GvR7eAoxqNgkS9NlHaD6PygJ5dzYAlldB5x3cV4gOtZVNTXbNr9fuxZVsU6o7Hd1eU4TEe-RNrUliqK4vmvAreuO1Geowo9GZOnt38w
+#EXTINF:4.000000,
+https://sm-monirul.top/tof/live.php?internal=true&data=rXU03gJ_hNyLUEEkK5ExEf4z2WogthMZUKx0bfSfe7Tw49vxk01mqHPgNIxaoxnlgTMTryOyel3En-amnhyvBik31YnkFRP4hlnsPSbjhCvgvjyzgUciPpdVAhAi427Mho3oEb7Nz2-YlB9PugfWAA
+#EXTINF:4.000000,
+https://sm-monirul.top/tof/live.php?internal=true&data=N2NAQBR6_a7K5fwhu3aQD_eg7kwBulc8DaZNxrHczIKSSG34eaRoI4p9Ix0-GU_p6YQOGWxerJOOahtq0eKz45lRjlBfI37L7_mlPNafQ-8HFM7Ual6BSeYHFJmmtDasxu7qAmkkxpKv8Ni3bO67GQ
+#EXTINF:4.000000,
+https://sm-monirul.top/tof/live.php?internal=true&data=4BRIktTiWasPRuIjaiqYI6JQWh4itjSvG7Tvc3UfH8sXc6zGNbsgIAwxazLARTNlrgRNk3jdGCWzQO2l8uiGg5U_Z8Di7H8sJu9FEwlAGzWQIHyBSIB_z1RVRb_bHR84Qq5YtT-YcafneFh0VDiP7A
+#EXTINF:4.000000,
+https://sm-monirul.top/tof/live.php?internal=true&data=QA8goWMYLhppaTMkHflZgPULjzYqDVe5UQVj3mpb5_m9e-kYBAJFW1I19DNav6bqJQFJttJPcqvHR3TtqAmYAvDeUbZyuKgIVfE_KjXVAxBhElPgG_BpSnWL2wLb0nLxTFzDgZF7QEHOpDt60H59tA
+#EXTINF:4.000000,
+https://sm-monirul.top/tof/live.php?internal=true&data=0O-WONWIoAoVYqBv3QXZdjetRE63DhNqLq9ws6p7r-LjPKXBVeRaOJYCgMdAAu8jKda-01L8xTgh5fcYb2OZCPUEfeZ3VRlhyIyO36yrFh1wfuM_CRuVdD3-XUWmUUgihK_-a8bN0Sq-l3kn_wM10Q
+#EXTINF:4.000000,
+https://sm-monirul.top/tof/live.php?internal=true&data=upJIlG1SEvHG9veTh-QqTpvVJH-bwZeAGu86PTPN-T8SCaL5ZugC04IKBKPhVCfWegNkW7tqc1DPRqp1FKlUulBIagZqobMIg3pVvjIAtNPvDDTggYScinaetVNIKz-NgUMRun2By2fhPyyv6t8y-g
+#EXTINF:4.000000,
+https://sm-monirul.top/tof/live.php?internal=true&data=e7Jlp6UGuTlUhzZOclFjJ6Z1a0HTE9uV_yMd7iAw4L38WXSPlcG5df09hjA8NS3IVP3nIPgHzOLoofeOJtZNBMDhoAPFQcxw-EqxC59GzhvRQVGJUnUtRGzIWS9j-jRbt46DLsblPaSj8_3O-X7rrA
+#EXTINF:1.680000,
+https://sm-monirul.top/tof/live.php?internal=true&data=Q5-rKcW5TfXtoBT8-tRroSEi1vbiLgD62GrXLGOBWlAmtiCxoHwWUcSXhXSzYvk03gvZLpB7yMuxASQnrQPPpF8LLZWvTKADPtjq650NETo8BjyJxO0VqURVKF0NhmRdtLkjlXOGI9y6U7_D99wudA
+#EXT-X-ENDLIST
